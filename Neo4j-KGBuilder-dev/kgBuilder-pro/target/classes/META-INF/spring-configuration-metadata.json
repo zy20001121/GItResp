@@ -1,0 +1,11 @@
+{
+  "groups": [
+    {
+      "name": "spring.neo4j",
+      "type": "com.warmer.web.config.Neo4jConfig",
+      "sourceType": "com.warmer.web.config.Neo4jConfig"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}
